@@ -4,9 +4,9 @@ using System.IO;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using message_generator.Models;
+using MarkovGen.Models;
 
-namespace message_generator.Controllers
+namespace MarkovGen.Controllers
 {
     public class HomeController : Controller
     {
@@ -20,11 +20,8 @@ namespace message_generator.Controllers
 
         public ActionResult Index()
         {
-            //var generator = new Generator();
-            //generator.Init();
             var example = generator.Generate();
             return Content(example);
-            
         }
 
     }

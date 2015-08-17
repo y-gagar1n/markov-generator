@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "message-generator", "message-generator\message-generator.csproj", "{58E7BB2C-1AD7-44A4-BE5C-2C486B1D4A7D}"
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovGen", "message-generator\MarkovGen.csproj", "{58E7BB2C-1AD7-44A4-BE5C-2C486B1D4A7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

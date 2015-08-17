@@ -7,7 +7,7 @@ using System.Net;
 using System.Text.RegularExpressions;
 using System.Web;
 
-namespace message_generator.Models
+namespace MarkovGen.Models
 {
     public class Generator
     {

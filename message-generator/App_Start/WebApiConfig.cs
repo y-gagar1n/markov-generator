@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace message_generator
+namespace MarkovGen
 {
     public static class WebApiConfig
     {

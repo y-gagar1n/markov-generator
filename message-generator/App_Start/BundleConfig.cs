@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace message_generator
+namespace MarkovGen
 {
     public class BundleConfig
     {

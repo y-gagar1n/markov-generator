@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace message_generator.Models
+namespace MarkovGen.Models
 {
     internal class MarkovChain
     {
